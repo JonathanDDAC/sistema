@@ -4,4 +4,7 @@
 
 Para ejecutar el sistema, debes poner:
 
+
 ```nom install react ```
+
+sistema de registro 2
